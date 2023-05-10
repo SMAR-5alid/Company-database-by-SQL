@@ -10,6 +10,6 @@
 
 # Tools:
   * SQL server
-  * 
+  
 # Database Overview:
 ![Mapping](https://github.com/SMAR-5alid/Company-database-by-SQL/assets/89194456/c6625bdd-bd7e-45b3-b750-14c6e35bc085)
