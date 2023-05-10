@@ -1,5 +1,5 @@
 # Company Database Query Solutions - SQL
-    SQL solutions for Queries, performed on the Company Database.
+  * SQL solutions for Queries, performed on the Company Database.
 
 # Content:
   * Company Database
