@@ -2,7 +2,7 @@
   * SQL solutions for Queries, performed on the Company Database.
 
 # Content:
-  * Company Database
+  * Company Database.
   * List of Queries and its Solutions
 
 # Technologies:
